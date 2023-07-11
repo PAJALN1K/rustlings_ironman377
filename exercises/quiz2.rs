@@ -42,12 +42,6 @@ mod my_module {
                         s.push_str("bar");
                     }
                     s
-                    
-                    // let mut s = String::from(string);
-                    // for _ in 0..*num {
-                    //     string.push_str("bar");
-                    // }
-                    // string.to_string
                 },
             };
             output.push(s);
